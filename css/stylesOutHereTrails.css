@@ -1,0 +1,139 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -2%;
+}
+body{
+    background-color: #F6F6F6;
+    font-family: 'Segoe UI', 'Open Sans', sans-serif;
+}
+
+#wrapper_header{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.1%;
+}
+
+.header_title{
+    color: white;
+    margin-bottom: 3%;
+    background-color: #235B4E;
+    text-align: center;
+    font-size: 35px;
+}
+
+#header_image1{
+    margin-top: -2.5%;
+    float: left;
+    width: 49.5%;
+}   
+
+#header_image2{
+    margin-top: -2.5%;
+    float: right;
+    width: 49.5%;
+}
+
+h2{
+    color: #235B4E;
+    font-size: 28px;
+}
+  
+h3{
+    text-align: center;
+    font-size: 28px;
+    color: #235B4E;
+}
+nav{
+    text-align: center;  
+}
+a:link{
+    text-decoration: none;
+    color: #235B4E;
+}
+a:visited{
+    color: #454545;
+}
+a:hover{
+    text-decoration: underline;
+    cursor:pointer;
+    color: #454545;
+}
+a:active{
+    color: #454545;
+    text-decoration: none;
+}
+
+#wrapper_content{
+    text-align: center;
+}
+p{
+    color: #8E8E8E;
+}
+
+hr{
+    color: #8E8E8E;
+    width: 90%;
+    margin-top: 3%;
+}
+
+ul{
+    margin-bottom:77%;
+}
+
+.listInColumns{
+    vertical-align: top;
+    width: 50%;
+    list-style-type: none;
+    float: left;
+    margin-top: 1%;
+}
+
+table{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.1%;
+    color: #8E8E8E;
+}
+
+#wrapper_news_contact {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.1%;
+}
+#first {
+    width: 60%;
+    float:left; /* add this */
+}
+#second {
+    text-align: right;
+    margin-bottom: 7%;
+}
+
+/*Yurts Page*/
+#wrapper_header2{
+    margin-top: -2%;
+    margin-bottom: -1%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.1%;
+}
+
+.header_title2{
+    color: white;
+    background-color: #235B4E;
+    text-align: center;
+    font-size: 30px;
+}
+
+dl dd{
+    color: #8E8E8E;
+}
+
+
+
